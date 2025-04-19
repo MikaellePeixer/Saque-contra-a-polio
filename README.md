@@ -10,12 +10,12 @@ Criar uma plataforma digital atraente e funcional para divulgar o evento benefic
 
 O site apresenta:
 
-📅 Informações sobre data, local e formato do campeonato
-🏆 Cronograma detalhado do evento com timeline interativa
-💰 Detalhes sobre inscrição e valor da contribuição
-📍 Localização do evento com mapa interativo integrado
-🔄 Design responsivo que se adapta a dispositivos móveis e desktop
-💉 Informações sobre a campanha contra a Pólio e seu impacto global
+- **📅 Informações sobre data, local e formato do campeonato**
+- **🏆 Cronograma detalhado do evento com timeline interativa**
+- **💰 Detalhes sobre inscrição e valor da contribuição**
+- **📍 Localização do evento com mapa interativo integrado**
+- **🔄 Design responsivo que se adapta a dispositivos móveis e desktop**
+- **💉 Informações sobre a campanha contra a Pólio e seu impacto global**
 
 ## 🔧 Tecnologias Utilizadas
 
