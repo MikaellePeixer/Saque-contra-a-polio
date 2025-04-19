@@ -11,7 +11,7 @@ Criar uma plataforma digital atraente e funcional para divulgar o evento benefic
 O site apresenta:
 
 - **📅 Informações sobre data, local e formato do campeonato**
-- **🏆 Cronograma detalhado do evento com timeline interativa**
+- **🏆 Cronograma detalhado do evento com timeline**
 - **💰 Detalhes sobre inscrição e valor da contribuição**
 - **📍 Localização do evento com mapa interativo integrado**
 - **🔄 Design responsivo que se adapta a dispositivos móveis e desktop**
@@ -48,7 +48,7 @@ O site foi desenvolvido com foco na experiência do usuário em diferentes taman
 
 Se você deseja participar do evento:
 
-Inscreva sua equipe através do formulário disponível no site
+- **Inscreva sua equipe através do formulário disponível no site
 Valor da inscrição: R$ 200,00 por equipe
 Inscrições até 25 de maio de 2025
 100% do valor arrecadado será destinado à campanha contra a Pólio
