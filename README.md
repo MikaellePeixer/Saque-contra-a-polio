@@ -1,6 +1,6 @@
 # 🏐 Saque Contra a Pólio: Campeonato de Vôlei Beneficente
 
-Este projeto é um site interativo e informativo para o "Saque Contra a Pólio", um campeonato de vôlei beneficente organizado pelo Rotaract Club de Blumenau Munique em parceria com o Blu Padel. Todo o valor arrecadado será destinado à campanha mundial de erradicação da Pólio.
+Este projeto é um site interativo e informativo para o "Saque Contra a Pólio", um campeonato de vôlei beneficente organizado pelo Rotaract Club de Blumenau Munique em parceria com o Blu Praia. Todo o valor arrecadado será destinado à campanha mundial de erradicação da Pólio.
 
 ## 💡 Objetivo
 
