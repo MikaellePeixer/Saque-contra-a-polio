@@ -81,7 +81,7 @@ A iniciativa End Polio Now é uma campanha global do Rotary International que tr
 
 ## 👥 Realização
 
-- Blu Padel .[https://www.blupadel.com.br].
+- Blu Praia .[https://www.instagram.com/blupraia/].
 - Rotaract Club de Blumenau Munique .[http://www.rotaractdeblumenaumunique.org.br/].
 
 
