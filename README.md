@@ -74,7 +74,7 @@ A iniciativa End Polio Now é uma campanha global do Rotary International que tr
 
 ## 🔗 Links e Contatos
 
-[Instagram do Rotaract Munique](http://www.rotaractdeblumenaumunique.org.br/)
+- [Instagram do Rotaract Munique](http://www.rotaractdeblumenaumunique.org.br/)
 - [Website oficial](https://www.rotaractdeblumenaumunique.org.br/home-clube)
 - [Email para contato](mailto:rtcblumunique@rotary4652.org.br)
 - [Formulário para voluntários](https://docs.google.com/forms/d/e/1FAIpQLSdY9N6GinxwCvuAwTIZdBYEN0BJRA8yiHoWdtHde-lhT8WHRg/viewform)
