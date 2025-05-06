@@ -41,7 +41,7 @@
     }
     
     .logo {
-        width: 120px;
+        width: 40vw;
         position: absolute;
         left: 20px;
         top: 10px;
@@ -399,22 +399,21 @@
     .footer-logo {
         display: flex;
         justify-content: center;
-        align-items: center;
-        margin: 2rem 0;
-        flex-wrap: wrap;
+        margin: 0;
     }
     
     .footer-logo a {
         margin: 0 20px;
+        margin: 0;
     }
     
     .footer-logo img {
-        height: 60px;
+        height: 200px;
+        margin: 0;
     }
-    
-    @media (max-width: 768px) {
+    @media (max-width: 600px) {
         .logo {
-            position: static;
+            position: absolute;
             margin-bottom: 1rem;
         }
         
@@ -449,14 +448,6 @@
         .price {
             font-size: 3.5rem;
         }
-        
-        .footer-logo {
-            flex-direction: column;
-        }
-        
-        .footer-logo a {
-            margin: 10px 0;
-        }
         .price {
         margin-bottom: 0;
         }
@@ -476,7 +467,7 @@
 </style>
 <body>
     <header>
-        <img src="https://www.rotaractdeblumenaumunique.org.br/clube/img/rotaract_topo.png" alt="Logo Rotaract Clube Munique" class="logo">
+        <img src="assets/Rotaract Logo.png" alt="Logo Rotaract Clube Munique" class="logo">
         <nav>
             <a href="#sobre">Sobre</a>
             <a href="#local">Local</a>
@@ -487,7 +478,7 @@
     </header>
 
     <div class="banner-container">
-        <img src="/assets/banner.JPG" alt="Campeonato de Vôlei Beneficente" class="hero-banner" style="width: 100%; height: auto;">
+        <img src="assets/banner.png" alt="Campeonato de Vôlei Beneficente" class="hero-banner" style="width: 100%; height: auto;">
     </div>
 
     <section class="hero">
@@ -524,7 +515,7 @@
                     <div class="card-content">
                         <h3>Diversão Garantida</h3>
                         <p>Além das partidas de vôlei, teremos alimentação e muita integração. Um dia inteiro de competição e diversão para os participantes e espectadores, enquanto contribuímos para uma causa nobre.</p>
-                        <a href="https://docs.google.com/document/d/1DtHjgbUirw7Hnwjr87qAAhSkuWL5hUyF/edit?usp=sharing&ouid=108627864213270273796&rtpof=true&sd=true" target="_blank" class="btn" style="margin-top: 2.5rem;">EDITAL DO EVENTO</a>
+                        <a href="https://drive.google.com/file/d/12g88yVCYmAvZ1uYeyPZHMFnnlphx-9M9/view?usp=sharing" target="_blank" target="_blank" class="btn" style="margin-top: 2.5rem;">EDITAL DO EVENTO</a>
                     </div>
                 </div>
             </div>
@@ -534,13 +525,13 @@
     <section id="local">
         <div class="container local">
             <h2>Local do Evento</h2>
-            <p style="text-align: center; margin-bottom: 2rem;">O campeonato será realizado no <a href="https://www.blupadel.com.br" target="_blank" style="color: white; font-weight: bold; text-decoration: none;">Blu Padel Club</a>, espaço ideal para prática esportiva em Blumenau.</p>
-            <div class="map-container">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.2960797493897!2d-49.08164589999999!3d-26.894097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94df1fc5cd230079%3A0x81dc507287687d8c!2sBlu%20Padel%20e%20Esportes%20de%20Areia%20Ltda!5e0!3m2!1spt-BR!2sbr!4v1743988746428!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <p style="text-align: center; margin-bottom: 2rem;">O campeonato será realizado no <a href="https://www.blupadel.com.br" target="_blank" style="color: white; font-weight: bold; text-decoration: none;">Blu Praia</a>, espaço ideal para prática esportiva em Blumenau.</p>
+            <div class="map-container" style="display: flex; justify-content: center;">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3558.318535424535!2d-49.07871382524644!3d-26.893384092395127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjbCsDUzJzM2LjIiUyA0OcKwMDQnMzQuMSJX!5e0!3m2!1spt-BR!2sbr!4v1746465707102!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <div style="text-align: center; margin-top: 2rem;">
-                <p><strong>Local:</strong> <a href="https://www.blupadel.com.br" target="_blank" style="color: white; text-decoration: none;">Blu Padel Club</a></p>
-                <p><strong>Endereço:</strong> R. São Paulo, 2815 - Itoupava Seca, Blumenau - SC, 89030-001</p>
+                <p><strong>Local:</strong> <a href="https://www.blupadel.com.br" target="_blank" style="color: white; text-decoration: none;">Blu Praia</a></p>
+                <p><strong>Endereço:</strong> Rua 2 de Setembro, 1870, Blumenau - SC, 89052-004</p>
                 <p><strong>Data:</strong> 31 de Maio de 2025</p>
                 <p><strong>Horário:</strong> À partir das 8h</p>
             </div>
@@ -617,7 +608,7 @@
                     </p>
                 </li>
                 <li class="timeline-item">
-                    <span class="time">14:30</span>
+                    <span class="time">16:40</span>
                     <p>
                         <strong>Premiação e Encerramento</strong><br>
                         Entrega de troféus e medalhas para os três primeiros colocados, além de brindes para todos os participantes. Agradecimentos especiais aos patrocinadores e apoiadores do evento.
@@ -626,6 +617,7 @@
             </ul>
         </div>
     </section>
+
 
     <section id="inscricao">
         <div class="container inscricao">
@@ -665,24 +657,22 @@
         </div>
     </section>
 
-    <footer>
+    <footer style="background: linear-gradient(to right, var(--gradient-start), var(--gradient-end)); padding: 20px 0; color: var(--light-color); text-align: center;">
         <div class="container">
-            <p>© 2025 Torneio de Vôlei de Areia Beneficente - Rotaract Clube Blumenau-Munique. Todos os direitos reservados.</p>
-            <p>"Saque Contra a Pólio - Juntos pela erradicação"</p>
-            <div class="footer-logo">
-                <a href="https://www.blupadel.com.br" target="_blank" class="link-azul"   style="color: white;">
-                    <img src="https://www.blupadel.com.br/ords/r/jdb/102/files/static/v21/icons/app-icon-256-rounded.png" alt="Blu Padel">
-                    <br>
-                    <b>Blu Padel</b>
+            <div class="footer-logo" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
+                <a href="https://www.instagram.com/blupraia/" target="_blank" style="color: white; text-decoration: none;">
+                    <img src="assets/LogoBluPraia.png" alt="Blu Padel" width="300px" leight="200px">
                 </a>
                 <a href="https://www.instagram.com/rotaractmunique/" target="_blank" class="link-azul" style="color: white;">
-                    <img src="https://www.rotaractdeblumenaumunique.org.br/clube/img/rotaract_topo.png" alt="Logo Rotaract Club de Blumenau Munique">
+                    <img src="assets/Rotaract Logo.png" alt="Logo Rotaract Club de Blumenau Munique">
                     <br>
-                    <b>Club de Blumenau Munique</b>
                 </a>
             </div>
-            <p>Realização: <a href="https://www.blupadel.com.br" target="_blank" style="color: white; text-decoration: none;">Blu Padel</a> e <a href="https://www.rotaractdeblumenaumunique.org.br/home-clube" target="_blank" style="color: white; text-decoration: none;">Rotaract Club de Blumenau Munique</a></p>
+            <p>
+            Site desenvolvido por <a href="https://github.com/MikaellePeixer/Saque-contra-a-polio" target="_blank" style="color: var(--light-color); text-decoration: underline;"> Mikaelle da Silva Peixer </a>, associada do Rotaract Blumenau Munique. <a href="https://github.com/MikaellePeixer/Saque-contra-a-polio" target="_blank" style="color: var(--light-color); margin: 0 10px;"> Repositório do Projeto</a>
+            </p><br>
+            <p>© 2025 Torneio de Vôlei de Areia Beneficente - Rotaract Clube Blumenau - Munique. Todos os direitos reservados. Saque Contra a Pólio - Juntos pela erradicação</p>
         </div>
-    </footer>
+    </footer>    
 </body>
 </html>
