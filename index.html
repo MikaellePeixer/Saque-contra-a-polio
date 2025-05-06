@@ -41,7 +41,7 @@
     }
     
     .logo {
-        width: 120px;
+        width: 40vw;
         position: absolute;
         left: 20px;
         top: 10px;
@@ -399,22 +399,22 @@
     .footer-logo {
         display: flex;
         justify-content: center;
-        align-items: center;
-        margin: 2rem 0;
-        flex-wrap: wrap;
+        margin: 0;
     }
     
     .footer-logo a {
         margin: 0 20px;
+        margin: 0;
     }
     
     .footer-logo img {
-        height: 60px;
+        height: 200px;
+        margin: 0;
+
     }
-    
-    @media (max-width: 768px) {
+    @media (max-width: 600px) {
         .logo {
-            position: static;
+            position: absolute;
             margin-bottom: 1rem;
         }
         
@@ -448,14 +448,6 @@
         
         .price {
             font-size: 3.5rem;
-        }
-        
-        .footer-logo {
-            flex-direction: column;
-        }
-        
-        .footer-logo a {
-            margin: 10px 0;
         }
         .price {
         margin-bottom: 0;
