@@ -1,6 +1,6 @@
 # 🏐 Saque Contra a Pólio: Campeonato de Vôlei Beneficente
 
-Este projeto é um site interativo e informativo para o "Saque Contra a Pólio", um campeonato de vôlei beneficente organizado pelo Rotaract Club de Blumenau Munique em parceria com o Blu Padel. Todo o valor arrecadado será destinado à campanha mundial de erradicação da Pólio.
+Este projeto é um site interativo e informativo para o "Saque Contra a Pólio", um campeonato de vôlei beneficente organizado pelo Rotaract Club de Blumenau Munique em parceria com o Blu Praia. Todo o valor arrecadado será destinado à campanha mundial de erradicação da Pólio.
 
 ## 💡 Objetivo
 
@@ -17,7 +17,7 @@ O site apresenta:
 - **🔄 Design responsivo que se adapta a dispositivos móveis e desktop**
 - **💉 Informações sobre a campanha contra a Pólio e seu impacto global**
 
-- Acesse o site oficial do projeto aqui: [https://sevenwomen.org](https://saquecontraapolio-blumenaumunique.vercel.app].
+- Acesse o site oficial do projeto aqui: [https://sevenwomen.org](https://saquecontraapolio-blumenaumunique.vercel.app).
 
 
 ## 🔧 Tecnologias Utilizadas
@@ -74,15 +74,17 @@ A iniciativa End Polio Now é uma campanha global do Rotary International que tr
 
 ## 🔗 Links e Contatos
 
-- Instagram do Rotaract Munique: .[http://www.rotaractdeblumenaumunique.org.br/].
-- Website oficial: .[https://www.rotaractdeblumenaumunique.org.br/home-clube].
-- Email para contato: .[rtcblumunique@rotary4652.org.br].
-- Formulário para voluntários: .[https://docs.google.com/forms/d/e/1FAIpQLSdY9N6GinxwCvuAwTIZdBYEN0BJRA8yiHoWdtHde-lhT8WHRg/viewform].
+- [Instagram do Rotaract Munique](http://www.rotaractdeblumenaumunique.org.br/)
+- [Website oficial](https://www.rotaractdeblumenaumunique.org.br/home-clube)
+- [Email para contato](mailto:rtcblumunique@rotary4652.org.br)
+- [Formulário para voluntários](https://docs.google.com/forms/d/e/1FAIpQLSdY9N6GinxwCvuAwTIZdBYEN0BJRA8yiHoWdtHde-lhT8WHRg/viewform)
+
+---
 
 ## 👥 Realização
 
-- Blu Padel .[https://www.blupadel.com.br].
-- Rotaract Club de Blumenau Munique .[http://www.rotaractdeblumenaumunique.org.br/].
+- [Blu Praia](https://www.instagram.com/blupraia/)
+- [Rotaract Club de Blumenau Munique](http://www.rotaractdeblumenaumunique.org.br/)
 
 
 
